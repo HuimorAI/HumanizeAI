@@ -12,6 +12,8 @@
 >* STEP 3:   
 > Click the “Humanize” button, wait for a bit, and receive your refined output.
 ## Preview
->![Humanize AI]()``
+>![Humanize AI](https://devops.huimor.com/fileshare/ce78d6d5bd8b61639ebe0e00f8b5f719)
+>![Humanize AI](https://devops.huimor.com/fileshare/5140683b227d49145c9641afca2e427f)
+>![Humanize AI](https://devops.huimor.com/fileshare/2abdad98b630a89a1be9759f42ff66b2)
 ## Q&A
 >
